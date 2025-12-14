@@ -35,7 +35,7 @@ The CNN Fear & Greed Index measures market sentiment on a scale from 0 (Extreme 
 ## 🖥️ Screenshots
 
 ### Main Interface
-![Main Interface](screenshots/main_interface.png.png)
+![Main Interface](screenshots/main_interface.png)
 *Real-time Fear & Greed Index with daily change indicator*
 
 ### Interactive Chart
