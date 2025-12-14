@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Data files - don't commit personal data
+*.xlsx
+*.csv
+*.png
+fear_greed_index.xlsx
+恐惧贪婪指数.xlsx
+恐惧贪婪指数图表.png
+
+# Batch files
+*.bat
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Test files
+test_*.py
